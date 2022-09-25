@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="fa9e124e-24ab-40d9-b581-d88dd0d327f5" name="Changes" comment="Cleaning tutorials and readme">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+=======
+    <list default="true" id="fa9e124e-24ab-40d9-b581-d88dd0d327f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coco_assistant/split_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/coco_assistant/split_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taco_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_mask_rcnn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_mask_rcnn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/.ipynb_checkpoints/image_composition-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/.ipynb_checkpoints/image_composition-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/image_composition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/image_composition.ipynb" afterDir="false" />
+>>>>>>> origin/#Cleaning_tutorials
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -10,9 +10,7 @@ coupled with a trash detection model based on the [Mask R-CNN by Matterport](htt
 It allows to create your own dataset with [basic image composition by Adam Kelly](https://github.com/akTwelve/cocosynth)
 and add any class to the existing TACO dataset.
 
-
-<img src="./assets/Segmentation_result.png" align="left" style='width:1000px'/>
-
+<img src="./assets/Segmentation_result.png" align="center" style='width:1000px'/>
 
 The repository includes:
 * Source code of Mask R-CNN built on FPN and ResNet50.
